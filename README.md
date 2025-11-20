@@ -1,3 +1,22 @@
+## 💫 About Me
+
+### 🧰 I’m currently working on
+Improving my MERN stack skills by building full-stack projects using **MongoDB, Express.js, React, and Node.js**.
+
+### 🧑‍🤝‍🧑 I’m looking to collaborate on
+Open-source **React, MERN, and Next.js** projects — especially modern web apps or anything with **real-time features**.
+
+### 🤝 I’m looking for help with
+Mastering **Next.js**, server-side rendering (SSR), API routes, and scaling full-stack applications.
+
+### 🌱 I’m currently learning
+**Next.js**, advanced React patterns, TypeScript basics, and backend architecture improvement.
+
+### 💬 Ask me about
+MERN stack development, REST APIs, authentication, React UI/UX, or deploying full-stack applications.
+
+### ⚡ Fun fact
+I enjoy turning complex problems into simple, working solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umar.tahir001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umar_tahir01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umar-tahir-940a74356) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tahirumar835) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29302211) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@umar_tahir01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahirumar835@gmail.com) 
